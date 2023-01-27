@@ -1,0 +1,21 @@
+/* Write your code here. */
+.background-container {
+  background-color: #0f172a;
+  font-family: "ROBOTO";
+  color: white;
+  height: 100vh;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+.heading {
+  font-size: 28px;
+  color: white;
+  margin: 3px;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
